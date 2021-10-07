@@ -1,0 +1,11 @@
+
+election results
+-------------
+total votes:369,711
+----------
+Raymon Anthony Doane: 3.1% (11,606)
+--------------
+winner:Raymon Anthony Doane
+winning vote count:11,606
+winning percentage:3.1%
+--------------
